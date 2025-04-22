@@ -1,7 +1,5 @@
-
 #vider la mémoire
 rm(list = ls())
-
 library(corrplot)
 library(gtsummary)
 library(GGally)
